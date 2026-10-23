@@ -1,6 +1,6 @@
 # Kiranjit Varma — Animated Portfolio
 
-A responsive animated developer portfolio featuring the supplied illustrated profile image.
+A responsive animated developer portfolio with a larger uppercase KIRANJIT VARMA brand in the top-left navigation featuring the supplied illustrated profile image.
 
 ## Files
 - `index.html` — complete site (HTML/CSS/JS); the profile portrait is embedded so the file previews correctly on its own
